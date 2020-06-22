@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}UOS系统简介}{2}
+\contentsline {section}{\numberline {2}UOS的安装}{2}
+\contentsline {section}{\numberline {3}常用工具}{2}
+\contentsline {subsection}{\numberline {3.1}WPS}{2}
+\contentsline {subsection}{\numberline {3.2}Zotero}{2}
+\contentsline {section}{\numberline {4}开发工具}{2}
+\contentsline {subsection}{\numberline {4.1}Emacs和Vim}{2}
+\contentsline {subsection}{\numberline {4.2}Pycharm}{2}
+\contentsline {section}{\numberline {5}命令行工具}{2}
+\contentsline {subsection}{\numberline {5.1}pandoc:文本格式转化工具}{2}
+\contentsline {subsection}{\numberline {5.2}translate:命令行下的翻译工具}{2}
+\contentsline {subsection}{\numberline {5.3}git:版本控制工具}{2}
+\contentsline {subsection}{\numberline {5.4}indent:代码格式化工具}{2}
+\contentsline {section}{\numberline {6}Linux入门及Shell编程}{2}
